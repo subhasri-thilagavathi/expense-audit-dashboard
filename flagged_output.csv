@@ -1,0 +1,12 @@
+Date,Vendor,Description,Amount,Gst,Category,Weekday,High Amount,Vendor Clean,Unknown Vendor,Weekend,Flagged
+2025-05-01,Nimmy Associates,Papers,50000,5,stationery,Thursday,False,nimmy associates,True,False,True
+2025-05-03,Bos Traders ,toner refill,6500,18,printing,Saturday,False,bos traders,False,True,True
+2025-05-04,Tech solutions ,software updation,12500,28,IT,Sunday,False,tech solutions,False,True,True
+2025-05-05,ABC repairs,AC service ,65000,5,Repairs,Monday,False,abc repairs,True,False,True
+2025-05-06,DC Associates,maintainence,25000,18,cleaning,Tuesday,False,dc associates,True,False,True
+2025-05-07,API Travel,Travelling,125000,28,Travel,Wednesday,True,api travel,True,False,True
+2025-05-10,Unq water supply,Water supply,125000,18,Water expenses,Saturday,True,unq water supply,False,True,True
+2025-05-11,ABC Catering,Food expenses,90000,12,Food,Sunday,False,abc catering,False,True,True
+2025-05-12,FF shop,flowers ,65000,5,pooja Expenses,Monday,False,ff shop,True,False,True
+2025-05-13,LG Electronics,AC,200000,18,personal,Tuesday,True,lg electronics,False,False,True
+2025-05-14,Tally solutions ,software updation,125000,5,IT,Wednesday,True,tally solutions,False,False,True
